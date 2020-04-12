@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+
+*{
+    margin:0;
+    padding:0;
+}
+
+input, button{
+    width:100%;
+}
+
+.ant-input{
+    text-align: right;
+    color:red;
+    height:80px;
+    font-size:35px;
+    background-color:#34495E;
+}
+
+.ant-btn-primary{
+    font-size:24px;
+    height:50px; 
+    background-color:#112233;
+    color:#44BBFF;
+    border-radius: 0;  
+}
+
+
